@@ -1,5 +1,8 @@
 ## Hi there is Xinhao Liu
-
+---
+Postgraduate in HIT, bachelor in SWJTU
+- 🌱 I’m currently learning anything what I am interested in
+- 📫 Personal Website ✨[Link](https://lastneveral.github.io/)
 <!--
 **LastNeveral/LastNeveral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
