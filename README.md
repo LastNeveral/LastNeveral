@@ -1,5 +1,5 @@
-## Hi there is Xinhao Liu
----
+## Hi there 😄
+#### Xinhao Liu
 Postgraduate in HIT, bachelor in SWJTU
 - 🌱 I’m currently learning anything what I am interested in
 - 📫 Personal Website ✨[Link](https://lastneveral.github.io/)
